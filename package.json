@@ -1,0 +1,13 @@
+{
+  "name": "introduction-to-jest",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Noroff",
+  "devDependencies": {
+    "jest": "^26.3.0"
+  }
+}
